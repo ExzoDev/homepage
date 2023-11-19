@@ -1,6 +1,3 @@
-import CalendarIcon from 'icons/calendar.inline.svg';
-import ConsoleIcon from 'icons/console.inline.svg';
-import partnersIcon from 'icons/team.inline.svg';
 import TransactionsIcon from 'icons/transactions.inline.svg';
 
 import LINKS from './links';
